@@ -202,8 +202,7 @@
     "@qse",
     "@ironkinoko",
     "@ikrong",
-    "@eslibs",
-    "@vue-tabler-icons"
+    "@eslibs"
   ],
   "allowPackages": {
     "fc3": {
